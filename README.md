@@ -1,0 +1,2 @@
+# orneksinif
+kurulum aciklamasi.
